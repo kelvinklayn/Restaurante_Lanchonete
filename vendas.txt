@@ -1,0 +1,9 @@
+1 | kelvin | 39.5
+2 | Rian | 28
+3 | kelly | 43.5
+4 | Edite | 28
+5 | Celaso | 35.5
+6 | Alice | 4
+7 | XuXu | 14
+8 | Dani | 22
+9 | Marcela | 22

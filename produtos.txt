@@ -1,0 +1,5 @@
+1 | arroz carreteiro | 15.5
+2 | x-salada | 8
+3 | x-tudo | 16
+4 | refrigerante | 4
+5 |pudim | 6
